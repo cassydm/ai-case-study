@@ -1,7 +1,6 @@
 # Case Study on modl.ai, Automated QA for exhaustive game testing
-![modl.ai Logo](https://modl.ai/wp-content/themes/tweentynineteen-child/assets/images/logo/logo.svg)
-
 _Created by Cassy Miller on 5/11/2024_
+![modl.ai Logo](https://modl.ai/wp-content/themes/tweentynineteen-child/assets/images/logo/logo.svg)
 ## Overview and Origin
 
 modl.ai is a Danish company co-founded in 2018 by Benedikte Mikkelsen, Lars Henriksen, Sebastian Risi, Julian Togelius, Georgios N. Yannakakis, and Christoffer Holmgård. CEO and Lead Engineer, Christoffer Holmgård, had spent much of his career in the gaming industry, having owned an indie games studio called Die Gute Fabrik. He also spent much of his time researching machine learning for games. Upon creating modl.ai, the group decided that AI was the next big opportunity for game development
