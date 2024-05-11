@@ -7,7 +7,8 @@ modl.ai now boasts 34 employees as of 2023, and is continuing to grow, being one
 
 modl.ai provides game developers with bots or virtual players for numerous purposes, whether it be to test it or just to see if the game works. It also has the capacity for deploying AI driven NPC (non-player characters) into the game. modl.ai is big on using its technology for discovering bugs and glitches by mimicing real players and their playstiles. modl.ai's team is focused on how AI can create better games.
 
-The company has two products: 
+The company has two products:
+
 modl:play - _Virtual Players on Demand_
 > Player bots that behave like humans, so that the game's players are matched with bots of a similar rank.
 
@@ -23,7 +24,7 @@ modl.ai's main goal is to help game developers create better games by deploying 
 modl.ai's customer base is game developers. It is an industry that only continues to grow in saturation, considering now several of the big games out today were developed by groups of one person!
 
 modl.ai boasts to be trusted by numerous notable game developers:
-> [NitroLogo](https://modl.ai/wp-content/uploads/2022/04/nitro2019_logo_White_web.png)
+[NitroLogo](https://modl.ai/wp-content/uploads/2022/04/nitro2019_logo_White_web.png)
 [KingLogo](https://modl.ai/wp-content/uploads/2021/07/king.png)
 [MassiveLogo](https://modl.ai/wp-content/uploads/2021/07/massive.png)
 and more!
