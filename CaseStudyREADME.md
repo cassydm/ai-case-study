@@ -24,9 +24,11 @@ modl.ai's main goal is to help game developers create better games by deploying 
 modl.ai's customer base is game developers. It is an industry that only continues to grow in saturation, considering now several of the big games out today were developed by groups of one person!
 
 modl.ai boasts to be trusted by numerous notable game developers:
-[NitroLogo](https://modl.ai/wp-content/uploads/2022/04/nitro2019_logo_White_web.png)
-[KingLogo](https://modl.ai/wp-content/uploads/2021/07/king.png)
-[MassiveLogo](https://modl.ai/wp-content/uploads/2021/07/massive.png)
+
+![NitroLogo](https://modl.ai/wp-content/uploads/2022/04/nitro2019_logo_White_web.png)
+![KingLogo](https://modl.ai/wp-content/uploads/2021/07/king.png)
+![MassiveLogo](https://modl.ai/wp-content/uploads/2021/07/massive.png)
+
 and more!
 
 There are numerous QA AI bot companies, especially with the rise of AI. What sets modl.ai apart is their team. All were either game developers previously and currently, or equally passionate about games. Their tool is very specific to game developers.
