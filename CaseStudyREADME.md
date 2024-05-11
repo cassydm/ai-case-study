@@ -9,7 +9,8 @@ modl.ai provides game developers with bots or virtual players for numerous purpo
 
 The company has two products: 
 modl:play - _Virtual Players on Demand_
-> Player bots that behave like humans, so that the game's players are matched with bots of a similar rank. 
+> Player bots that behave like humans, so that the game's players are matched with bots of a similar rank.
+
 modl:test - _Automated Game Testing_
 > QA (quality assurance) bots who's task is handling the repetative aspects of game testing to find bugs or glitches, much like real players would. 
 
@@ -19,7 +20,13 @@ In 2022, modl.ai raised 8.5 million Euros in a series A funding.
 
 modl.ai's main goal is to help game developers create better games by deploying AI to solve bugs and clitches and crashes, so the game developers can spend more time on sripts and graphics, etc. 
 
-modl.ai's customer base is game developers. It is an industry that only continues to grow in saturation, considering now several of the big games out today were developed by groups of one!
+modl.ai's customer base is game developers. It is an industry that only continues to grow in saturation, considering now several of the big games out today were developed by groups of one person!
+
+modl.ai boasts to be trusted by numerous notable game developers:
+> [NitroLogo](https://modl.ai/wp-content/uploads/2022/04/nitro2019_logo_White_web.png)
+[KingLogo](https://modl.ai/wp-content/uploads/2021/07/king.png)
+[MassiveLogo](https://modl.ai/wp-content/uploads/2021/07/massive.png)
+and more!
 
 There are numerous QA AI bot companies, especially with the rise of AI. What sets modl.ai apart is their team. All were either game developers previously and currently, or equally passionate about games. Their tool is very specific to game developers.
 
@@ -30,6 +37,7 @@ There is little information of specific technologies the team at modl.ai is usin
 The company is in the AI field, but specific to game developers.
 
 One thing about the gaming industry, is that every few years, a major box game such as Call of Duty or Pokemon, release their latest game. Often times, upon release, these games are expensive, only available on latest gen consoles, and riddled with bugs. For instance, upon release of the latest Pokemon game, Scarlet and Violet, players took to social media to complain about the lack of quality out of one of the biggest game development companies, Nintendo. Imagine if Nintendo had employed modl.ai QA bots to discover these bugs before the game was released. This would have allowed more time to develop the story and graphics to ensure a better gaming experience for gamers.
+
 Additionally, the latest big thing in gaming is Unreal Engine 5. It is a tool for creators to develop very detailed games with ease. One issue with Unreal Engine 5, is that its so dependent of GPUs that it is unattainable for use in games with independent developers. In the next five-or-so years, most games will be developed with Unreal Engine, and due to its vastness, AI like modl.ai will become more and more nescessary to implement as the scope of gaming requirements (from audio to graphics) increases.
 
 It is unclear the true scope of competition in modl.ai's field, especially considering that for years, game testing was done by real people, and it continues to be that way now. However, modl.ai was listed as one of the most promising AI companies in 2021.
